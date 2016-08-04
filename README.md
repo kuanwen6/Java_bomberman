@@ -2,7 +2,7 @@
 2016 spring course
 Java final_project Bomberman
 
-With serveral unsolve problem:
+With serveral unsolved problems:
 1.If you die during running, your position will offset a little.
 2.Sometimes you can walk through the wall.
 3.You can't place bombs during running
